@@ -6,9 +6,13 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.Log;
+
+
+
 oweugfuwebfuewb
 
-posh boi amitsss
+        posh boi amit
+
 
 
 import org.opencv.aruco.Aruco;
