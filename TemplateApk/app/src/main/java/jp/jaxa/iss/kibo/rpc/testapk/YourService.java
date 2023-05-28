@@ -7,6 +7,14 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.Log;
 
+
+
+oweugfuwebfuewb
+
+        posh boi amit
+
+
+
 import org.opencv.aruco.Aruco;
 import org.opencv.core.Mat;
 import org.opencv.core.Scalar;
