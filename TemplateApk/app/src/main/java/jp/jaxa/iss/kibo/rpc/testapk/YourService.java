@@ -9,10 +9,6 @@ import android.util.Log;
 
 
 
-oweugfuwebfuewb
-
-        posh boi amit
-
 
 
 import org.opencv.aruco.Aruco;
