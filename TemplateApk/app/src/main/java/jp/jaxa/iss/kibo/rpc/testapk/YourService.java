@@ -6,6 +6,10 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.util.Log;
+oweugfuwebfuewb
+
+posh boi amitsss
+
 
 import org.opencv.aruco.Aruco;
 import org.opencv.core.Mat;
